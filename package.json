@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "name": "webd-learning",
+  "version": "1.0.0",
+  "main": "db1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anup Jaiswal",
+  "license": "ISC",
+  "description": ""
+}
